@@ -1,0 +1,13 @@
+#box1{
+    height: 100px;width: 100px;
+    background-color: blue;font-size: 10px;
+}
+#box2{height: 66%;width: 50%;background-color: green;font-size: 0.5em;}
+#box3{height: 66%;width: 50%;background-color: red;font-size: 0.5em;}
+/* erlative to outer element can also be used as rem */
+body{background-image: url("cat.jpg");background-position: cover;}
+
+#box11{height: 100px;width: 100px;background-color: rgb(158, 145, 0);border: 2px solid black;display: inline-block;position: relative;top: 20px;left: 10px;}
+#box22{height: 100px;width: 100px;background-color: rgb(97, 166, 0);border: 2px solid black;display: inline-block;position: sticky;top: 0px;z-index: 1;}
+#box33{height: 100px;width: 100px;background-color: rgb(163, 6, 38);border: 2px solid black;display: inline-block;position:absolute;top: 100px;background-image: url("cat.jpg");background-position: contain;}
+#box44{height: 100px;width: 100px;background-color: rgba(90, 0, 119, 0.267);border: 2px solid black;display: inline-block;position: fixed;top: 0px;width: 100vw;}

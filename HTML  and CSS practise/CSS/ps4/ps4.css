@@ -1,0 +1,8 @@
+*{padding: 0;margin: 0;text-decoration: none;color: white;}
+.contentbox{height: 100px;width: 100px;display: inline-block;border: 2px dashed black ;}
+#navbar{height: 60px;background-color: black; color: white;}
+button{background-color: #f08804;}
+#logo{color: #f08804;font-size: 25px;}
+a{margin-right: 200px;}
+footer{text-align: center;background-color: black;}
+#content{height: 630px;}

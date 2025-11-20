@@ -1,0 +1,6 @@
+div{height: 100px;background-color: aqua;width: 100px;
+border-width: 5px;border-style: dashed;border-color: brown;border-radius:25%;padding-left: 20px;margin-top: 50px;}
+    h1{background-color:aquamarine; text-align: center; border-width: 5px;border-color: beige;border-style: dotted;border-width: 2px;width: 200px;}
+#two{padding-right: 50px;}
+#three{padding-top: 70px;}
+#two{padding: 20px 50px 75px 200px;}

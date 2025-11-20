@@ -1,0 +1,18 @@
+/* default is set to left align */
+p{text-align: start;
+line-height: 50px;
+text-transform: uppercase;} 
+/* for headings the font weight is set bold by default */
+h1{text-align: center;
+font-weight: normal;}
+H2{text-decoration: dotted underline;
+font-weight: bold;}
+H3{text-decoration: wavy overline;
+font-weight: bolder;}
+H4{text-decoration: double line-through;
+font-weight:lighter ;}
+#one{font-family:'Times New Roman', serif;}
+    #two{font-family:  'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+#o1{font-size: 100px;}
+#o2{font-size: 10px;}
+#o3{font-size: 5px;}

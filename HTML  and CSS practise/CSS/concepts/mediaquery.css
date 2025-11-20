@@ -1,0 +1,7 @@
+div{height: 100px;width: 100px;background-color: rgb(25, 32, 151);}
+/* color becomes red when screen width is 600px */
+@media(width:600px){div{background-color: red;}}
+/* less than 600px width color becomes green similarly min width (vice-versa) */
+@media (max-width: 600px){div{background-color: green;}}
+/* to mark a region in between we use and */
+@media (min-width : 200px) and (max-width : 300px){div{background-color: yellow;}}

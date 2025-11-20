@@ -1,0 +1,6 @@
+div{background-color: green;height: 100px;width: 100px;border-radius: 50%;color: black;border-style: dotted;border-color: black;border-width: 2px;}
+#main{height: 300px;width: 100px;background-color: black;border-radius: 0%;padding-left: 20px;padding-bottom: 20px;margin-top: 50px;}
+#one{height: 70px;width: 70px;border-radius: 50%;background-color: red;margin-bottom: 20px;margin-top: 10px;}
+#two{height: 70px;width: 70px;border-radius: 50%;background-color: yellow;margin-bottom: 20px;margin-top: 10px;}
+
+#three{height: 70px;width: 70px;border-radius: 50%;background-color: green;margin-bottom: 20px;margin-top: 10px;}

@@ -1,0 +1,7 @@
+
+div{background-color: pink;display: inline-block;width: 100px;height: 100px;margin: 25px;padding: 25px;}
+/* remove using display none */
+#box2{display: none;}
+#box1{visibility: hidden;}
+/* diminished red color is set for the box 3 */
+#box3{background-color: rgba(255,0,0,0.4);}

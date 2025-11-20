@@ -1,0 +1,3 @@
+div{height: 100px;width: 100px;background-color: rgb(25, 32, 151);position: absolute;top: 100px;left: 100px;animation-name: coloranim;animation-duration: 3s;animation-timing-function: ease-in;animation-iteration-count: 6;
+animation-delay: 1s;}
+@keyframes coloranim{from{background-color: rgb(25, 32, 151);}to{ background-color:red}}
