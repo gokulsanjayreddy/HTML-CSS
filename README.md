@@ -24,3 +24,4 @@ Contains my practice files for structural web elements:
 The primary objective of this repository is to document my learning process, experiment with web standards, and build a collection of reference projects as I improve my front-end development skills.
 
 ---
+*Maintained by [Chatrala Gokul sanjay reddy](https://github.com/gokulsanjayreddy)*
